@@ -3,7 +3,7 @@ services:
   web:
     #remplazar username/repo:tag con el nombre y imagen
     #image: username/repo:tag
-    image: jalbertomr/lab_1:python_app_1
+    image: jalbertomr/lab_1:myapp80
     deploy:
       replicas: 5
       resources:
@@ -13,7 +13,7 @@ services:
       restart_policy:
         condition: on-failure
     ports:
-      - "5000:4000"
+      - "80:80"
     networks:
       - webnet
 networks:
