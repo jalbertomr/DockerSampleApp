@@ -6,10 +6,9 @@ WORKDIR /app
 COPY . /app
 # Instala los paquetes necesarios especificados en requirements.txt
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
-#Declara puerto 80 de este contenedor disponible al mundo externo
-EXPOSE 80
+#Declara puerto 4000 de este contenedor disponible al mundo externo
+EXPOSE 4000
 # Define variable de ambiente
 ENV NAME Mundito (env var definido en Dockerfile)
-ENV REDIS_HOST redis
 # Ejecuta app.py cuando el contenedor se carge
 CMD ["python","app.py"] 

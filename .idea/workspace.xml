@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ac96de3-10dc-412f-89d5-04f361584067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DockerAppConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/docker-composev2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/docker-composev3.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/.idea/DockerSampleApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/app.py.save" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/myvm1/testRedis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerSampleApp/redis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskSimpleBlog/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskSimpleBlog/anonpost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskSimpleBlog/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerSampleApp/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/DockerSampleApp/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerSampleApp/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/DockerSampleApp/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerSampleApp/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/DockerSampleApp/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-composev3.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-composev2.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/redis.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DockerSampleApp/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DockerSampleApp/testRedis.py" />
+        <option value="$PROJECT_DIR$/DockerSampleApp/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/DockerSampleApp/Dockerfile" />
+        <option value="$PROJECT_DIR$/DockerSampleApp/app.py" />
+        <option value="$PROJECT_DIR$/DockerSampleApp/docker-composev3.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1371" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DockerAppConfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DockerAppConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DockerAppConfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DockerAppConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="DockerSampleApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac96de3-10dc-412f-89d5-04f361584067" name="Default Changelist" comment="" />
+      <created>1561077891570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561077891570</updated>
+    </task>
+    <task id="LOCAL-00001" summary="primer commit, toda la app funcionando">
+      <created>1561169719223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561169719223</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se agrega el archivo docker-compose.yml">
+      <created>1561310500513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561310500513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docker-compose.yml replicas: 5">
+      <created>1561421673652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561421673652</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se ajusta a puerto 80 para correr con swarm">
+      <created>1561488884024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561488884024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="133" y="47" width="1371" height="815" extended-state="0" />
+    <layout>
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.24925816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.303207" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32994187" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit, toda la app funcionando" />
+    <MESSAGE value="Se agrega el archivo docker-compose.yml" />
+    <MESSAGE value="docker-compose.yml replicas: 5" />
+    <MESSAGE value="Se ajusta a puerto 80 para correr con swarm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se ajusta a puerto 80 para correr con swarm" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///etc/redis/redis.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/testRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskSimpleBlog/anonpost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/redis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-composev2.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerSampleApp/docker-composev3.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
